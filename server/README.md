@@ -8,9 +8,9 @@ HOW TO USE:
 
 4. Connect with dota2MatchmakingSync client by typing IP into console and pressing enter
 
-5. When ready, click on dota, type 'start' in winserver.exe console
+5. When ready, put dota in foreground, type 'start' in server console
 
-6. To stop, type 'stop' in winserver.exe console
+6. To stop, type 'stop' in server console
 
 
 NOTES:
